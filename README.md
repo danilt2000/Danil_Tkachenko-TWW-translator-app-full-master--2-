@@ -1,0 +1,1 @@
+Translator that uses the api to translate Czech into English and also uses local storage ![Snímek š2022-06-17 121235](https://user-images.githubusercontent.com/75219332/174279859-6124fb8d-7d27-45ae-89c1-256345c0cb8e.jpg)
